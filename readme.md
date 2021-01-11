@@ -1,4 +1,3 @@
-# project 2
 # Fandom quiz
 ## Packages Used
 1. readline-sync (For User's input)
